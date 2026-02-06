@@ -85,7 +85,7 @@ const Issues: React.FC = () => {
             <div id="financial-stability" className="scroll-mt-32 grid grid-cols-1 lg:grid-cols-2 gap-12 md:gap-16 lg:gap-24 items-center">
               <div className="relative order-1">
                 <div className="border-[8px] md:border-[12px] border-brand-navy shadow-[16px_16px_0px_0px_#203365] lg:shadow-[32px_32px_0px_0px_#203365] overflow-hidden h-[350px] md:h-[500px] lg:h-[650px]">
-                  <img src="http://quincyforcongress.zahidyaftali.com/wp-content/uploads/2026/02/Creating-financial-stability-AS9_4002-scaled.jpg" alt="Making Life Affordable" className="w-full h-full object-cover block" />
+                  <img src="" alt="Making Life Affordable" className="w-full h-full object-cover block" />
                 </div>
               </div>
               <div className="order-2 space-y-6 md:space-y-10">
